@@ -5,6 +5,7 @@ import vapeo from "../assets/img/projects/vapeoDig.jpg";
 import menara from "../assets/img/projects/menaraDesign.jpg";
 import tiktaktoe from "../assets/img/projects/tiktaktoe.JPG";
 import todolist from "../assets/img/projects/todo-list.JPG";
+import adminDashboard from "../assets/img/projects/adminDashboard.JPG";
 import shopcart from "../assets/img/projects/shopping-cart.JPG";
 import pomodoro from "../assets/img/projects/pomodoro.JPG";
 import loginRegister from "../assets/img/projects/loginForm.JPG";
@@ -207,6 +208,12 @@ export const Project = () => {
             // description: "This product is created for the practice of creating a form with the different security measures that a user will find in a real login or registration.",
             imgUrl: loginRegister,
             url: "https://mimendiola.github.io/Login-Register-form/",
+        },
+        {
+            title: "Admin Dashboard",
+            // description: "Admin dashboard where I work with.",
+            imgUrl: adminDashboard,
+            url: "https://mimendiola.github.io/Admin-Dashboard/",
         },
     ]
 
