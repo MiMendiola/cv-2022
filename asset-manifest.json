@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/cv-2022/static/css/main.a2caa436.css",
-    "main.js": "/cv-2022/static/js/main.a479351d.js",
+    "main.js": "/cv-2022/static/js/main.ffc25ee8.js",
     "static/js/787.cb436b89.chunk.js": "/cv-2022/static/js/787.cb436b89.chunk.js",
     "static/media/color-sharp.png": "/cv-2022/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/cv-2022/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/php.png": "/cv-2022/static/media/php.aa680f57bf75b5d5acdc.png",
+    "static/media/adminDashboard.jpg": "/cv-2022/static/media/adminDashboard.48c252f98532659c3bd3.jpg",
     "static/media/banner-bg.png": "/cv-2022/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/logo.jpg": "/cv-2022/static/media/logo.f1f6781f0da880a1fd92.jpg",
     "static/media/vapeoDig.jpg": "/cv-2022/static/media/vapeoDig.f4e2bd6fa5d8038e762a.jpg",
@@ -56,11 +57,11 @@
     "index.html": "/cv-2022/index.html",
     "static/media/nav-icon1.svg": "/cv-2022/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.a2caa436.css.map": "/cv-2022/static/css/main.a2caa436.css.map",
-    "main.a479351d.js.map": "/cv-2022/static/js/main.a479351d.js.map",
+    "main.ffc25ee8.js.map": "/cv-2022/static/js/main.ffc25ee8.js.map",
     "787.cb436b89.chunk.js.map": "/cv-2022/static/js/787.cb436b89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2caa436.css",
-    "static/js/main.a479351d.js"
+    "static/js/main.ffc25ee8.js"
   ]
 }
