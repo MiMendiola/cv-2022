@@ -213,7 +213,7 @@ export const Project = () => {
             title: "Admin Dashboard",
             // description: "Admin dashboard where I work with.",
             imgUrl: adminDashboard,
-            url: "https://mimendiola.github.io/Admin-Dashboard/",
+            url: "https://github.com/MiMendiola/Admin-Dashboard",
         },
     ]
 
