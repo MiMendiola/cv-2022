@@ -5,7 +5,7 @@ import vapeo from "../assets/img/projects/vapeoDig.jpg";
 import menara from "../assets/img/projects/menaraDesign.jpg";
 import tiktaktoe from "../assets/img/projects/tiktaktoe.JPG";
 import todolist from "../assets/img/projects/todo-list.JPG";
-import adminDashboard from "../assets/img/projects/adminDashboard.JPG";
+import adminDashboard from "../assets/img/projects/adminDashboard.jpg";
 import shopcart from "../assets/img/projects/shopping-cart.JPG";
 import pomodoro from "../assets/img/projects/pomodoro.JPG";
 import loginRegister from "../assets/img/projects/loginForm.JPG";
