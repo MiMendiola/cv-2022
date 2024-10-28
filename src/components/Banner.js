@@ -9,7 +9,7 @@ export const Banner = () => {
     const [text, setText] = useState("");
     const [delta, setDelta] = useState(300 - Math.random() * 100);
 
-    const toRotate = ["Web Developer", "Cross-platform developer"];
+    const toRotate = ["Software Developer", "Cross-platform developer", "Web Developer"];
     const period = 2000;
 
     useEffect(() => {
@@ -53,7 +53,7 @@ export const Banner = () => {
                         Young student eager to work as a developer.
                         I'm a fast learner who's always seeking to improve my skills, which is an advantage in the computing world due to the fact that it undergoes constant changes and updates. I am a very adaptable person and a very efficient problem solver.
                     </p>
-                    <button onClick={() => window.open('https://api.whatsapp.com/send/?phone=%2B12365129848&')}>Let's connect <ArrowRightCircle size={25}/></button>
+                    <button onClick={() => window.open('mailto:mglmendiol@gmail.com')}>Let's connect <ArrowRightCircle size={25}/></button>
                 </Col>
 
                 <Col  xs={12} md={6} xl={5}>
