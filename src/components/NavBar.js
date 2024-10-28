@@ -52,15 +52,14 @@ export const NavBar = () => {
             </Nav>
             <span className='navbar-text'>
                 <div className='social-icon'>
-                    {/* LinkediIn, GitHub */}
-                    <a href='https://www.linkedin.com/in/miguel-mendiola-ara' target={'_blanck'}>
+                    <a href='https://www.linkedin.com/in/mimendiola/' target={'_blanck'}>
                         <img src={navIcon1} alt="" />
                     </a>
                     <a href='https://github.com/MiMendiola' target={'_blanck'}>
                         <img src={navIcon2} alt="" />
                     </a>
                 </div>
-                <button className='vvd' onClick={() => window.open('https://api.whatsapp.com/send/?phone=%2B12365129848&')}>
+                <button className='vvd' onClick={() => window.open('mailto:mglmendiol@gmail.com')}>
                     <span>Let's Connect</span>
                 </button>
             </span>
