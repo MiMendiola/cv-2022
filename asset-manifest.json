@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cv-2022/static/css/main.a2caa436.css",
-    "main.js": "/cv-2022/static/js/main.b3c8d6da.js",
+    "main.js": "/cv-2022/static/js/main.cc773cb9.js",
     "static/js/787.cb436b89.chunk.js": "/cv-2022/static/js/787.cb436b89.chunk.js",
     "static/media/color-sharp.png": "/cv-2022/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/cv-2022/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/mmendiol.jpeg": "/cv-2022/static/media/mmendiol.567186f17f9d62408bb9.jpeg",
     "static/media/php.png": "/cv-2022/static/media/php.aa680f57bf75b5d5acdc.png",
     "static/media/adminDashboard.jpg": "/cv-2022/static/media/adminDashboard.48c252f98532659c3bd3.jpg",
     "static/media/banner-bg.png": "/cv-2022/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/logo.jpg": "/cv-2022/static/media/logo.f1f6781f0da880a1fd92.jpg",
     "static/media/vapeoDig.jpg": "/cv-2022/static/media/vapeoDig.f4e2bd6fa5d8038e762a.jpg",
     "static/media/mysql.png": "/cv-2022/static/media/mysql.01f99ed97d3e420071b9.png",
-    "static/media/1.jpg": "/cv-2022/static/media/1.1b7e3818718f2b49222d.jpg",
     "static/media/table.JPG": "/cv-2022/static/media/table.400300e371c06cdea7f6.JPG",
     "static/media/angular.png": "/cv-2022/static/media/angular.b6d2a9dec3e43e0ffb95.png",
     "static/media/CentraNo2-Bold.ttf": "/cv-2022/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -52,16 +52,15 @@
     "static/media/html5.png": "/cv-2022/static/media/html5.ff3cf75e3b7cbb4ea77c.png",
     "static/media/revicons.ttf": "/cv-2022/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/cv-2022/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/logo.svg": "/cv-2022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nav-icon2.svg": "/cv-2022/static/media/nav-icon2.30d85305ff8530d7a053dda9245c8ae3.svg",
     "index.html": "/cv-2022/index.html",
-    "static/media/nav-icon1.svg": "/cv-2022/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon1.svg": "/cv-2022/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "main.a2caa436.css.map": "/cv-2022/static/css/main.a2caa436.css.map",
-    "main.b3c8d6da.js.map": "/cv-2022/static/js/main.b3c8d6da.js.map",
+    "main.cc773cb9.js.map": "/cv-2022/static/js/main.cc773cb9.js.map",
     "787.cb436b89.chunk.js.map": "/cv-2022/static/js/787.cb436b89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2caa436.css",
-    "static/js/main.b3c8d6da.js"
+    "static/js/main.cc773cb9.js"
   ]
 }
