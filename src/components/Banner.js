@@ -18,6 +18,7 @@ export const Banner = () => {
         }, delta)
 
         return () => { clearInterval(ticket)};
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [text]);
 
 

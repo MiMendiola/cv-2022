@@ -36,7 +36,7 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 
 export const Project = () => {
 
-    const projectsSpain = [
+    const projectsCms = [
         {
             title: "Check&Life",
             // description: "The website was changed of platform from Wix to Wordpress in a fast and efficient way. Apart from this change, an improvement of the website was carried out.",
@@ -228,7 +228,7 @@ export const Project = () => {
                         <Tab.Container id="projects-tabs" defaultActiveKey="first">
                             <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                                 <Nav.Item>
-                                    <Nav.Link eventKey="first">Spain</Nav.Link>
+                                    <Nav.Link eventKey="first">CMS</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item>
                                     <Nav.Link eventKey="second">SCSS</Nav.Link>
@@ -242,7 +242,7 @@ export const Project = () => {
                                 <Tab.Pane eventKey="first">
                                     <Row>
                                         {
-                                            projectsSpain.map((project, index) => {
+                                            projectsCms.map((project, index) => {
                                                 return( 
                                                     <ProjectCard
                                                     key={index} {...project}/>
